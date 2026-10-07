@@ -1,2 +1,5 @@
-streamlit
-google-generativeai
+# EduGenie - Gemini Powered Learning Assistant
+Project for NASSCOM FSP - SB Generative AI with Google Cloud Data
+Features: Ask doubt, get simple explanation, quiz
+Tech: Streamlit + Gemini 1.5 Flash
+Run: streamlit run app.py
